@@ -26,7 +26,7 @@ Hi im Andika
 
 📈 My github stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riandikast&show_icons=true&theme=gotham" alt="riandikast" />
+<p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=riandikast&show_icons=true&theme=gotham" alt="riandikast" />
 
 
 
