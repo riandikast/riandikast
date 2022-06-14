@@ -8,14 +8,6 @@
 
 
 
-<br />
-
-Hi im Andika
-
-
-
-  
-
 
 **Languages and Tools:**  
 
@@ -26,7 +18,7 @@ Hi im Andika
 
 
 
-
+Hi im Andika
 
 
 📈 My github stats 
