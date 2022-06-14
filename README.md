@@ -1,4 +1,4 @@
-### hey there 
+### Connect With Me
 
 <a href="https://www.linkedin.com/in/riandikast/">
   <img align="left" alt="Riandika Linkedid" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -8,7 +8,7 @@
 
 <br />
 
-Hi
+Hi im Andika
 
 
 
@@ -24,7 +24,6 @@ Hi
 
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
