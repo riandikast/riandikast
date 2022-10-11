@@ -31,6 +31,9 @@ Hi im Andika
 
 <p &nbsp; align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riandikast&show_icons=true&locale=en&layout=compact&theme=cobalt&border_radius=15" alt="riandikast" /></p>
 
+<br/>
+<br/>
+
 <p &nbsp; align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=riandikast&show_icons=true&theme=gotham" alt="riandikast" />
 
 
