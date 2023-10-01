@@ -2,6 +2,9 @@
 <br/>
 <br/>
 
+
+Hi im Andika
+
 **Languages and Tools:**  
 
 
@@ -17,13 +20,6 @@
 <br/>
 
 
-
-Hi im Andika
-
-
-📈 My github stats 
-
-<p &nbsp; align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riandikast&show_icons=true&locale=en&layout=compact&theme=cobalt&border_radius=15" alt="riandikast" /></p>
 
 <br/>
 <br/>
