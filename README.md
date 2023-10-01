@@ -1,10 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=riandikast.riandikast)
 
-### Connect With Me
-
-<a href="https://www.linkedin.com/in/riandikast/">
-  <img align="left" alt="Riandika Linkedid" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br/>
 <br/>
 
