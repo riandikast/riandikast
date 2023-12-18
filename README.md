@@ -7,10 +7,10 @@ Hi im Andika. Welcome, feel free to take a look at my project
 
 
 I'm also open for freelance work to solve these problems:
-- Recovering lost or broken files
-- Bypassing forgotten archive passwords (Zip, Rar, 7z)
+- Recovering lost or broken files ( depens on how big the damage is)
+- Bypassing forgotten archive passwords (Zip, Rar, 7z) ( It takes a very long time with a long password, though. )
 - Creating scripts or shortcuts for your tasks and workflows
-- Solving software/operating system problems (Android, Windows)
+- Solving software/operating system issues (Android, Windows)
 
 
 Contact : riandikasp@gmail.com
