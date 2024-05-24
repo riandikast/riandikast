@@ -1,9 +1,7 @@
 
 <br/>
-<br/>
 
----------------------------------------------------------------------------------------------------------
-(Linkedin currently not available, account was temporarily restriscted due to someone try to hack it)
+(Linkedin currently not available, account was temporarily restricted due to someone try to hack it)
 ---------------------------------------------------------------------------------------------------------
 
 Hi im Andika. Welcome, feel free to take a look at my project
