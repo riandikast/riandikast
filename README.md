@@ -1,8 +1,6 @@
 
 <br/>
-
-(Linkedin currently not available, account was temporarily restricted due to someone try to hack it)
----------------------------------------------------------------------------------------------------------
+<br/>
 
 Hi im Andika. Welcome, feel free to take a look at my project
 
